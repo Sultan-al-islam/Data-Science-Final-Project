@@ -12,7 +12,6 @@ This repository contains the code and resources for the Final Project, which foc
             <li><a href="#structure">Project Structure</a></li>
             <li><a href="#results">Results</a></li>
             <li><a href="#contributing">Contributing</a></li>
-            <li><a href="#license">License</a></li>
         </ul>
     </div>
 <div class="section" id="overview">
@@ -96,9 +95,4 @@ This repository contains the code and resources for the Final Project, which foc
  <div class="section" id="contributing">
         <h2>Contributing</h2>
         <p>Provide guidelines for contributing to the project.</p>
-    </div>
-
-   <div class="section" id="license">
-        <h2>License</h2>
-        <p>Include information about the license for the project.</p>
     </div>
