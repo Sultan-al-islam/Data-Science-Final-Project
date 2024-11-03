@@ -38,7 +38,6 @@ This repository contains the code and resources for the Final Project, which foc
 <h3>Data Preprocessing</h3>
 <ul>
     <li><strong>Handling Missing Values:</strong> Although no explicit missing values exist, some features like Insulin and SkinThickness contain zero values, which may require imputation.</li>
-    <li><strong>Feature Scaling:</strong> Applying scaling to features to bring them to a similar range, improving model performance.</li>
     <li><strong>Encoding and Transformation:</strong> No categorical variables are present, but data transformations may be applied if necessary.</li>
 </ul>
 
@@ -50,8 +49,8 @@ This repository contains the code and resources for the Final Project, which foc
 
 <h3>Modeling</h3>
 <ul>
-    <li>Building and evaluating various classification models, such as Logistic Regression, Decision Trees, Random Forest, and others, to determine the most accurate model.</li>
-    <li>Hyperparameter tuning to optimize the selected model for better accuracy.</li>
+    <li>Building and evaluating various classification models, such as Logistic Regression to determine the most accurate model.</li>
+   
 </ul>
 
 <h3>Evaluation</h3>
