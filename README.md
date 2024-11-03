@@ -64,7 +64,7 @@ This repository contains the code and resources for the Final Project, which foc
     </div>
    <div class="section" id="objectives">
         <h1>Objectives</h1>
-        <p><h1>Diabetes Prediction Project Objectives</h1>
+        <p><h3>Diabetes Prediction Project Objectives</h3>
 
 <p>This project aims to leverage data analysis and machine learning techniques to identify individuals at higher risk of diabetes. The objectives are as follows:</p>
 
