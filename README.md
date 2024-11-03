@@ -162,7 +162,22 @@ This repository contains the code and resources for the Final Project, which foc
 
  <div class="section" id="structure">
         <h2>Project Structure</h2>
-        <p>Describe the structure of the project files and folders.</p>
+        <p><p>This project is organized as follows:</p>
+
+<pre>
+├── <strong>Final_project.ipynb</strong>      # Jupyter notebook with code and analysis
+├── <strong>diabetes.csv</strong>             # Dataset file
+├── <strong>README.md</strong>                # Project README
+└── <strong>images</strong>                   # Folder for visualizations and EDA images
+</pre>
+
+<h2>File Descriptions</h2>
+<ul>
+  <li><strong>Final_project.ipynb:</strong> A Jupyter notebook containing all the code for data analysis, preprocessing, model building, and evaluation, as well as visualizations of the results.</li>
+  <li><strong>diabetes.csv:</strong> The dataset file used for analysis, containing various health metrics and diabetes indicators.</li>
+  <li><strong>README.md:</strong> Project README file that provides an overview of the project, objectives, dataset, and structure.</li>
+  <li><strong>images:</strong> Folder containing images generated from exploratory data analysis (EDA) and other visualizations to support findings.</li>
+</ul></p>
     </div>
 
  <div class="section" id="results">
@@ -170,7 +185,4 @@ This repository contains the code and resources for the Final Project, which foc
         <p>Summarize any results, findings, or analysis outcomes here.</p>
     </div>
 
- <div class="section" id="contributing">
-        <h2>Contributing</h2>
-        <p>Provide guidelines for contributing to the project.</p>
-    </div>
+
