@@ -150,11 +150,6 @@ This repository contains the code and resources for the Final Project, which foc
 </p>
     </div>
 
- <div class="section" id="installation">
-        <h2>Installation</h2>
-        <p>List installation steps and any dependencies required for the project.</p>
-    </div>
-
 <div class="section" id="usage">
         <h2>Usage</h2>
         <p>Instructions for using the project or running any scripts.</p>
