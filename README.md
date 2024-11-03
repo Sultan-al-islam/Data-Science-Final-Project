@@ -64,47 +64,49 @@ This repository contains the code and resources for the Final Project, which foc
     </div>
    <div class="section" id="objectives">
         <h1>Objectives</h1>
-        <p><h1>Diabetes Prediction Project</h1>
+        <p><h1>Diabetes Prediction Project Objectives</h1>
 
-<h3>1. Data Analysis and Exploration</h3>
-<p>This project involves performing an exploratory data analysis (EDA) on the diabetes dataset to uncover insights, detect patterns, and identify any anomalies. The primary goals in this stage are to:</p>
+<p>This project aims to leverage data analysis and machine learning techniques to identify individuals at higher risk of diabetes. The objectives are as follows:</p>
+
+<h2>1. Data Analysis and Exploration</h2>
+<p>Perform exploratory data analysis (EDA) to uncover insights within the dataset. Key tasks include:</p>
 <ul>
-  <li>Summarize key features of the dataset to understand distributions and relationships.</li>
-  <li>Visualize important features to gain deeper insights into the data.</li>
+  <li>Identifying patterns and trends to understand diabetes-related factors.</li>
+  <li>Detecting any data anomalies or inconsistencies that could impact analysis.</li>
 </ul>
 
 <h2>2. Data Preprocessing</h2>
-<p>Before building models, the data needs to be cleaned and preprocessed to ensure optimal performance:</p>
+<p>Clean and preprocess the dataset to ensure high-quality inputs for modeling:</p>
 <ul>
-  <li>Handle missing values effectively.</li>
-  <li>Encode categorical variables where necessary.</li>
-  <li>Standardize numerical features to ensure consistent scales.</li>
-  <li>Implement feature scaling and selection for model readiness.</li>
+  <li>Handle missing values and clean erroneous data entries.</li>
+  <li>Encode categorical variables and standardize numerical data as required.</li>
 </ul>
 
 <h2>3. Model Development and Evaluation</h2>
-<p>The main objective is to build predictive models that identify individuals at higher risk of diabetes. This section involves:</p>
+<p>Develop predictive models to assess diabetes risk and evaluate their effectiveness:</p>
 <ul>
-  <li>Developing machine learning models for risk prediction.</li>
-  <li>Evaluating model performance using metrics such as accuracy, precision, recall, and F1-score.</li>
-  <li>Comparing different models to identify the best performing one.</li>
+  <li>Build models using machine learning techniques.</li>
+  <li>Evaluate model accuracy, precision, recall, and F1-score to identify the best-performing model.</li>
 </ul>
 
-
-
-<h2>4. Feature Importance Analysis</h2>
-<p>Identify and analyze the most significant features that contribute to diabetes risk predictions. This section provides insights into:</p>
+<h2>4. Hyperparameter Tuning</h2>
+<p>Optimize model performance through hyperparameter tuning:</p>
 <ul>
-  <li>How different factors impact the likelihood of diabetes onset.</li>
+  <li>Use techniques like grid search or randomized search to find optimal model parameters.</li>
 </ul>
 
-
-
-<h2>5. Documentation and Reporting</h2>
-<p>The entire process, including data analysis, model development, and results, is documented in a clear and structured manner. The final report includes:</p>
+<h2>5. Feature Importance Analysis</h2>
+<p>Analyze the significance of various features contributing to diabetes risk:</p>
 <ul>
-  <li>Visualizations and charts for easy understanding.</li>
-  <li>A summary of findings in a README for accessibility.</li>
+  <li>Identify the most influential factors that impact diabetes onset.</li>
+  <li>Provide insights into the predictive power of different variables.</li>
+</ul>
+
+<h2>6. Deployment and Documentation</h2>
+<p>Deploy the final model and document the process for user accessibility:</p>
+<ul>
+  <li>Provide a user-friendly deployment, such as an API or web application for real-time diabetes risk predictions.</li>
+  <li>Document the process, including analysis, modeling, and deployment steps, to ensure transparency and usability.</li>
 </ul></p>
     </div>
 
