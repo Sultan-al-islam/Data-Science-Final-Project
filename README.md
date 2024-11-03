@@ -55,7 +55,7 @@ This repository contains the code and resources for the Final Project, which foc
 
 <h3>Evaluation</h3>
 <ul>
-    <li>Model performance is evaluated using metrics like accuracy, precision, recall, F1-score, and ROC-AUC to ensure robust prediction capability.</li>
+    <li>Model performance is evaluated using metrics like accuracy</li>
 </ul>
 
 <h2>Results</h2>
