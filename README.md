@@ -19,43 +19,42 @@ This repository contains the code and resources for the Final Project, which foc
         <h2>Project Overview</h2>
         <p>Briefly describe the project and its purpose here.</p>
     </div>
-
-    <div class="section" id="objectives">
+   <div class="section" id="objectives">
         <h2>Objectives</h2>
         <p>Outline the main objectives and goals of the project here.</p>
     </div>
 
-    <div class="section" id="data">
+<div class="section" id="data">
         <h2>Data</h2>
         <p>Provide information about the data used, including its source and structure.</p>
     </div>
 
-    <div class="section" id="installation">
+ <div class="section" id="installation">
         <h2>Installation</h2>
         <p>List installation steps and any dependencies required for the project.</p>
     </div>
 
-    <div class="section" id="usage">
+<div class="section" id="usage">
         <h2>Usage</h2>
         <p>Instructions for using the project or running any scripts.</p>
     </div>
 
-    <div class="section" id="structure">
+ <div class="section" id="structure">
         <h2>Project Structure</h2>
         <p>Describe the structure of the project files and folders.</p>
     </div>
 
-    <div class="section" id="results">
+ <div class="section" id="results">
         <h2>Results</h2>
         <p>Summarize any results, findings, or analysis outcomes here.</p>
     </div>
 
-    <div class="section" id="contributing">
+ <div class="section" id="contributing">
         <h2>Contributing</h2>
         <p>Provide guidelines for contributing to the project.</p>
     </div>
 
-    <div class="section" id="license">
+   <div class="section" id="license">
         <h2>License</h2>
         <p>Include information about the license for the project.</p>
     </div>
