@@ -101,7 +101,53 @@ This repository contains the code and resources for the Final Project, which foc
 
 <div class="section" id="data">
         <h2>Data</h2>
-        <p>Provide information about the data used, including its source and structure.</p>
+        <p><h2>Dataset</h2>
+<p>The dataset used in this project is <code>diabetes.csv</code>, containing variables that are relevant to assessing diabetes risk, such as age, BMI, glucose levels, and family history of diabetes. The dataset includes both continuous and categorical variables that provide insights into individual health metrics and potential diabetes risk factors.</p>
+
+<h2>Data Columns</h2>
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th>Column</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><strong>Pregnancies</strong></td>
+    <td>Number of pregnancies</td>
+  </tr>
+  <tr>
+    <td><strong>Glucose</strong></td>
+    <td>Plasma glucose concentration</td>
+  </tr>
+  <tr>
+    <td><strong>BloodPressure</strong></td>
+    <td>Diastolic blood pressure (mm Hg)</td>
+  </tr>
+  <tr>
+    <td><strong>SkinThickness</strong></td>
+    <td>Triceps skin fold thickness (mm)</td>
+  </tr>
+  <tr>
+    <td><strong>Insulin</strong></td>
+    <td>2-Hour serum insulin (mu U/ml)</td>
+  </tr>
+  <tr>
+    <td><strong>BMI</strong></td>
+    <td>Body mass index (weight in kg/(height in m)^2)</td>
+  </tr>
+  <tr>
+    <td><strong>DiabetesPedigreeFunction</strong></td>
+    <td>Diabetes pedigree function (a score indicating likelihood based on family history)</td>
+  </tr>
+  <tr>
+    <td><strong>Age</strong></td>
+    <td>Age (years)</td>
+  </tr>
+  <tr>
+    <td><strong>Outcome</strong></td>
+    <td>Class variable (0 or 1); 1 indicates diabetes presence</td>
+  </tr>
+</table>
+</p>
     </div>
 
  <div class="section" id="installation">
