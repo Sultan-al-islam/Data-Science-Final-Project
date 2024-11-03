@@ -86,28 +86,17 @@ This repository contains the code and resources for the Final Project, which foc
 <p>Develop predictive models to assess diabetes risk and evaluate their effectiveness:</p>
 <ul>
   <li>Build models using machine learning techniques.</li>
-  <li>Evaluate model accuracy, precision, recall, and F1-score to identify the best-performing model.</li>
+  <li>Evaluate model accuracy to identify the best-performing model.</li>
 </ul>
 
-<h2>4. Hyperparameter Tuning</h2>
-<p>Optimize model performance through hyperparameter tuning:</p>
-<ul>
-  <li>Use techniques like grid search or randomized search to find optimal model parameters.</li>
-</ul>
-
-<h2>5. Feature Importance Analysis</h2>
+<h2>4. Feature Importance Analysis</h2>
 <p>Analyze the significance of various features contributing to diabetes risk:</p>
 <ul>
   <li>Identify the most influential factors that impact diabetes onset.</li>
   <li>Provide insights into the predictive power of different variables.</li>
 </ul>
 
-<h2>6. Deployment and Documentation</h2>
-<p>Deploy the final model and document the process for user accessibility:</p>
-<ul>
-  <li>Provide a user-friendly deployment, such as an API or web application for real-time diabetes risk predictions.</li>
-  <li>Document the process, including analysis, modeling, and deployment steps, to ensure transparency and usability.</li>
-</ul></p>
+</p>
     </div>
 
 <div class="section" id="data">
