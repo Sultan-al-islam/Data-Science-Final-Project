@@ -177,7 +177,7 @@ This repository contains the code and resources for the Final Project, which foc
 
  <div class="section" id="results">
         <h2>Results</h2>
-        <p>Summarize any results, findings, or analysis outcomes here.</p>
+        <p></p>
     </div>
 
 
